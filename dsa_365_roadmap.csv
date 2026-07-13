@@ -1,0 +1,365 @@
+Day,Week,Phase,Topic
+1,1,Basics & Math,Time & Space Complexity Intro
+2,1,Basics & Math,Big-O Notation Examples
+3,1,Basics & Math,Python Basics for DSA (List/Tuple/Dict Complexity)
+4,1,Basics & Math,Math - GCD & LCM
+5,1,Basics & Math,Math - Prime Numbers (Sieve of Eratosthenes)
+6,1,Basics & Math,Math - Factorial & Combinatorics
+7,1,Basics & Math,"Bit Manipulation Basics (AND, OR, XOR)"
+8,2,Basics & Math,Number Theory - Modular Arithmetic
+9,2,Basics & Math,Recursion - Introduction & Basics
+10,2,Basics & Math,Recursion - Factorial & Fibonacci
+11,2,Basics & Math,Recursion - Sum of Digits & Power Function
+12,2,Basics & Math,Recursion - Print Patterns
+13,2,Basics & Math,Recursion - Tower of Hanoi
+14,2,Basics & Math,Recursion - Practice & Revision Quiz
+15,3,Arrays & Sorting,Array Basics - Traversal & In-place Ops
+16,3,Arrays & Sorting,Largest/Smallest Element in Array
+17,3,Arrays & Sorting,Second Largest Element
+18,3,Arrays & Sorting,Reverse an Array
+19,3,Arrays & Sorting,Move Zeroes to End
+20,3,Arrays & Sorting,Rotate Array (Left/Right)
+21,3,Arrays & Sorting,Maximum Subarray Sum - Kadane's Algorithm
+22,4,Arrays & Sorting,Two Sum Problem
+23,4,Arrays & Sorting,Sort Colors (Dutch National Flag)
+24,4,Arrays & Sorting,Majority Element (Boyer-Moore Voting)
+25,4,Arrays & Sorting,Missing Number in Array
+26,4,Arrays & Sorting,Duplicate Number in Array
+27,4,Arrays & Sorting,Union & Intersection of Two Arrays
+28,4,Arrays & Sorting,Merge Two Sorted Arrays
+29,5,Arrays & Sorting,Next Permutation
+30,5,Arrays & Sorting,Trapping Rain Water
+31,5,Arrays & Sorting,Product of Array Except Self
+32,5,Arrays & Sorting,Maximum Product Subarray
+33,5,Arrays & Sorting,Best Time to Buy and Sell Stock
+34,5,Arrays & Sorting,3Sum Problem
+35,5,Arrays & Sorting,4Sum Problem
+36,6,Arrays & Sorting,Bubble Sort - Implementation
+37,6,Arrays & Sorting,Selection Sort - Implementation
+38,6,Arrays & Sorting,Insertion Sort - Implementation
+39,6,Arrays & Sorting,Merge Sort - Implementation
+40,6,Arrays & Sorting,Quick Sort - Implementation
+41,6,Arrays & Sorting,Counting Sort & Radix Sort
+42,6,Arrays & Sorting,Sorting - Practice & Revision Quiz
+43,7,Searching & Recursion Adv,Linear Search
+44,7,Searching & Recursion Adv,Binary Search - Iterative & Recursive
+45,7,Searching & Recursion Adv,Search in Rotated Sorted Array
+46,7,Searching & Recursion Adv,First and Last Position in Sorted Array
+47,7,Searching & Recursion Adv,Search in 2D Matrix
+48,7,Searching & Recursion Adv,Floor & Ceil in Sorted Array
+49,7,Searching & Recursion Adv,Peak Element in Array
+50,8,Searching & Recursion Adv,Median of Two Sorted Arrays
+51,8,Searching & Recursion Adv,Allocate Minimum Pages (Binary Search on Answer)
+52,8,Searching & Recursion Adv,Aggressive Cows Problem
+53,8,Searching & Recursion Adv,Koko Eating Bananas
+54,8,Searching & Recursion Adv,Capacity to Ship Packages
+55,8,Searching & Recursion Adv,Backtracking Basics - Subsets
+56,8,Searching & Recursion Adv,Searching - Practice & Revision Quiz
+57,9,Strings,String Basics - Traversal & Manipulation
+58,9,Strings,Reverse a String
+59,9,Strings,Palindrome Check
+60,9,Strings,Anagram Check
+61,9,Strings,Longest Common Prefix
+62,9,Strings,String to Integer (atoi)
+63,9,Strings,Count and Say
+64,10,Strings,Valid Parentheses
+65,10,Strings,Longest Substring Without Repeating Characters
+66,10,Strings,Longest Palindromic Substring
+67,10,Strings,Group Anagrams
+68,10,Strings,String Compression
+69,10,Strings,Rabin-Karp Algorithm (Pattern Matching)
+70,10,Strings,KMP Algorithm (Pattern Matching)
+71,11,Strings,Z-Function Algorithm
+72,11,Strings,Minimum Window Substring
+73,11,Strings,Valid Anagram Variants
+74,11,Strings,Roman to Integer
+75,11,Strings,Integer to Roman
+76,11,Strings,Reverse Words in a String
+77,11,Strings,Implement strStr()
+78,12,Strings,Longest Palindromic Subsequence
+79,12,Strings,Edit Distance
+80,12,Strings,Wildcard Matching
+81,12,Strings,Regular Expression Matching
+82,12,Strings,Word Break Problem
+83,12,Strings,Isomorphic Strings
+84,12,Strings,Strings - Practice & Revision Quiz
+85,13,LinkedList,Singly Linked List - Implementation
+86,13,LinkedList,Doubly Linked List - Implementation
+87,13,LinkedList,Reverse a Linked List (Iterative)
+88,13,LinkedList,Reverse a Linked List (Recursive)
+89,13,LinkedList,Detect Cycle in Linked List (Floyd's Algorithm)
+90,13,LinkedList,Find Middle of Linked List
+91,13,LinkedList,Remove Nth Node from End
+92,14,LinkedList,Merge Two Sorted Linked Lists
+93,14,LinkedList,Merge K Sorted Lists
+94,14,LinkedList,Add Two Numbers (Linked List)
+95,14,LinkedList,Intersection of Two Linked Lists
+96,14,LinkedList,Palindrome Linked List
+97,14,LinkedList,Remove Duplicates from Sorted List
+98,14,LinkedList,Rotate Linked List
+99,15,LinkedList,Flatten a Multilevel Linked List
+100,15,LinkedList,Copy List with Random Pointer
+101,15,LinkedList,LRU Cache Implementation
+102,15,LinkedList,LFU Cache Implementation
+103,15,LinkedList,Sort a Linked List (Merge Sort)
+104,15,LinkedList,Reorder List
+105,15,LinkedList,LinkedList - Practice & Revision Quiz
+106,16,Stack & Queue,Stack - Implementation (Array & Linked List)
+107,16,Stack & Queue,Queue - Implementation (Array & Linked List)
+108,16,Stack & Queue,Circular Queue Implementation
+109,16,Stack & Queue,Min Stack Design
+110,16,Stack & Queue,Valid Parentheses (Stack Application)
+111,16,Stack & Queue,Next Greater Element
+112,16,Stack & Queue,Next Smaller Element
+113,17,Stack & Queue,Largest Rectangle in Histogram
+114,17,Stack & Queue,Stock Span Problem
+115,17,Stack & Queue,Sliding Window Maximum (Deque)
+116,17,Stack & Queue,Implement Queue using Stacks
+117,17,Stack & Queue,Implement Stack using Queues
+118,17,Stack & Queue,Evaluate Reverse Polish Notation
+119,17,Stack & Queue,Infix to Postfix Conversion
+120,18,Stack & Queue,Postfix Expression Evaluation
+121,18,Stack & Queue,Celebrity Problem
+122,18,Stack & Queue,Trapping Rain Water using Stack
+123,18,Stack & Queue,Design Stack with getMin() O(1)
+124,18,Stack & Queue,Asteroid Collision
+125,18,Stack & Queue,Remove K Digits
+126,18,Stack & Queue,Stack & Queue - Practice & Revision Quiz
+127,19,Trees,Binary Tree Intro & Inorder Traversal
+128,19,Trees,Preorder Traversal
+129,19,Trees,Postorder Traversal
+130,19,Trees,Level Order Traversal (BFS)
+131,19,Trees,Zigzag Level Order Traversal
+132,19,Trees,Height of Binary Tree
+133,19,Trees,Diameter of Binary Tree
+134,20,Trees,Balanced Binary Tree Check
+135,20,Trees,Symmetric Tree Check
+136,20,Trees,Same Tree Check
+137,20,Trees,Mirror of a Binary Tree
+138,20,Trees,Maximum Path Sum in Binary Tree
+139,20,Trees,Lowest Common Ancestor (LCA)
+140,20,Trees,Vertical Order Traversal
+141,21,Trees,Top View of Binary Tree
+142,21,Trees,Bottom View of Binary Tree
+143,21,Trees,Left/Right View of Binary Tree
+144,21,Trees,Boundary Traversal of Binary Tree
+145,21,Trees,Serialize and Deserialize Binary Tree
+146,21,Trees,Construct Tree from Inorder & Preorder
+147,21,Trees,Construct Tree from Inorder & Postorder
+148,22,Trees,Root to Leaf Path Sum
+149,22,Trees,Sum of Nodes in Binary Tree
+150,22,Trees,Count Leaf Nodes
+151,22,Trees,Invert a Binary Tree
+152,22,Trees,Flatten Binary Tree to Linked List
+153,22,Trees,Path Sum II (All Root-to-Leaf Paths)
+154,22,Trees,Maximum Width of Binary Tree
+155,23,Trees,Children Sum Property
+156,23,Trees,Burning Tree Problem
+157,23,Trees,Count Nodes in Complete Binary Tree
+158,23,Trees,Binary Tree to Doubly Linked List
+159,23,Trees,Morris Traversal (Inorder w/o recursion/stack)
+160,23,Trees,Nodes at Distance K in Binary Tree
+161,23,Trees,Trees - Practice & Revision Quiz
+162,24,BST,Binary Search Tree Intro & Search
+163,24,BST,Insert into BST
+164,24,BST,Delete Node in BST
+165,24,BST,Validate Binary Search Tree
+166,24,BST,Kth Smallest Element in BST
+167,24,BST,Kth Largest Element in BST
+168,24,BST,LCA in BST
+169,25,BST,Convert Sorted Array to BST
+170,25,BST,Inorder Successor/Predecessor in BST
+171,25,BST,BST Iterator
+172,25,BST,Two Sum in BST
+173,25,BST,Recover BST (Swapped Nodes)
+174,25,BST,Merge Two BSTs
+175,25,BST,BST - Practice & Revision Quiz
+176,26,Heap,Heap Intro & Implementation
+177,26,Heap,Build a Max Heap / Min Heap
+178,26,Heap,Heap Sort
+179,26,Heap,Kth Largest Element in Array
+180,26,Heap,Kth Smallest Element in Array
+181,26,Heap,K Closest Points to Origin
+182,26,Heap,Top K Frequent Elements
+183,27,Heap,Merge K Sorted Arrays (using Heap)
+184,27,Heap,Find Median from Data Stream
+185,27,Heap,Sliding Window Median
+186,27,Heap,Task Scheduler
+187,27,Heap,Design Twitter (Heap Application)
+188,27,Heap,Reorganize String
+189,27,Heap,Heap - Practice & Revision Quiz
+190,28,Graphs Basic,Graph Intro & Representations
+191,28,Graphs Basic,BFS Traversal of Graph
+192,28,Graphs Basic,DFS Traversal of Graph
+193,28,Graphs Basic,Number of Islands
+194,28,Graphs Basic,Flood Fill Algorithm
+195,28,Graphs Basic,Detect Cycle in Undirected Graph (BFS)
+196,28,Graphs Basic,Detect Cycle in Undirected Graph (DFS)
+197,29,Graphs Basic,Detect Cycle in Directed Graph
+198,29,Graphs Basic,Topological Sort (Kahn's Algorithm)
+199,29,Graphs Basic,Topological Sort (DFS based)
+200,29,Graphs Basic,Bipartite Graph Check
+201,29,Graphs Basic,Rotten Oranges Problem
+202,29,Graphs Basic,0/1 Matrix - Nearest 0 (BFS)
+203,29,Graphs Basic,Surrounded Regions
+204,30,Graphs Basic,Number of Provinces (Connected Components)
+205,30,Graphs Basic,Word Ladder Problem
+206,30,Graphs Basic,Clone a Graph
+207,30,Graphs Basic,Course Schedule I
+208,30,Graphs Basic,Course Schedule II
+209,30,Graphs Basic,Snake and Ladder Problem
+210,30,Graphs Basic,Alien Dictionary Problem
+211,31,Graphs Basic,Is Graph Bipartite Advanced
+212,31,Graphs Basic,Shortest Path in Unweighted Graph (BFS)
+213,31,Graphs Basic,Number of Distinct Islands
+214,31,Graphs Basic,Making a Large Island
+215,31,Graphs Basic,Path with Minimum Effort
+216,31,Graphs Basic,Accounts Merge (Union Find application)
+217,31,Graphs Basic,Graphs Basic - Practice & Revision Quiz
+218,32,Graphs Advanced,Dijkstra's Algorithm
+219,32,Graphs Advanced,Bellman-Ford Algorithm
+220,32,Graphs Advanced,Floyd-Warshall Algorithm
+221,32,Graphs Advanced,Prim's Algorithm (MST)
+222,32,Graphs Advanced,Kruskal's Algorithm (MST)
+223,32,Graphs Advanced,Disjoint Set Union (Union-Find) Basics
+224,32,Graphs Advanced,Union-Find by Rank & Path Compression
+225,33,Graphs Advanced,Number of Operations to Connect Components
+226,33,Graphs Advanced,Most Stones Removed with Same Row/Column
+227,33,Graphs Advanced,Swim in Rising Water
+228,33,Graphs Advanced,Network Delay Time
+229,33,Graphs Advanced,Cheapest Flights Within K Stops
+230,33,Graphs Advanced,Critical Connections in a Network (Bridges)
+231,33,Graphs Advanced,Articulation Points in Graph
+232,34,Graphs Advanced,Strongly Connected Components (Kosaraju's)
+233,34,Graphs Advanced,Strongly Connected Components (Tarjan's)
+234,34,Graphs Advanced,Travelling Salesman Problem (DP + Bitmask Intro)
+235,34,Graphs Advanced,Minimum Spanning Tree Applications
+236,34,Graphs Advanced,Graph Coloring Problem
+237,34,Graphs Advanced,Euler Path & Circuit
+238,34,Graphs Advanced,Graphs Advanced - Practice & Revision Quiz
+239,35,Greedy,Greedy Intro & Activity Selection
+240,35,Greedy,Fractional Knapsack Problem
+241,35,Greedy,Job Sequencing Problem
+242,35,Greedy,Minimum Number of Platforms
+243,35,Greedy,Huffman Coding
+244,35,Greedy,N Meetings in One Room
+245,35,Greedy,Gas Station Problem
+246,36,Greedy,Candy Distribution Problem
+247,36,Greedy,Jump Game
+248,36,Greedy,Jump Game II
+249,36,Greedy,Minimum Number of Coins
+250,36,Greedy,Non-overlapping Intervals
+251,36,Greedy,Partition Labels
+252,36,Greedy,Greedy - Practice & Revision Quiz
+253,37,Backtracking,Backtracking Intro & Subsets
+254,37,Backtracking,Subsets II (with duplicates)
+255,37,Backtracking,Permutations of an Array
+256,37,Backtracking,Permutations II (with duplicates)
+257,37,Backtracking,Combination Sum
+258,37,Backtracking,Combination Sum II
+259,37,Backtracking,N-Queens Problem
+260,38,Backtracking,Sudoku Solver
+261,38,Backtracking,Rat in a Maze Problem
+262,38,Backtracking,Word Search
+263,38,Backtracking,Palindrome Partitioning
+264,38,Backtracking,Letter Combinations of Phone Number
+265,38,Backtracking,Generate Parentheses
+266,38,Backtracking,M-Coloring Problem
+267,39,Backtracking,Print All Paths in Maze
+268,39,Backtracking,Restore IP Addresses
+269,39,Backtracking,Path with Maximum Gold
+270,39,Backtracking,Beautiful Arrangement
+271,39,Backtracking,Expression Add Operators
+272,39,Backtracking,Split String into Palindromic Substrings
+273,39,Backtracking,Backtracking - Practice & Revision Quiz
+274,40,DP Basic,DP Intro (Memoization vs Tabulation)
+275,40,DP Basic,Fibonacci using DP
+276,40,DP Basic,Climbing Stairs
+277,40,DP Basic,House Robber
+278,40,DP Basic,House Robber II (Circular)
+279,40,DP Basic,0/1 Knapsack Problem
+280,40,DP Basic,Unbounded Knapsack
+281,41,DP Basic,Coin Change - Minimum Coins
+282,41,DP Basic,Coin Change II - Number of Ways
+283,41,DP Basic,Subset Sum Problem
+284,41,DP Basic,Equal Sum Partition Problem
+285,41,DP Basic,Count Subsets with Given Sum
+286,41,DP Basic,Minimum Subset Sum Difference
+287,41,DP Basic,Target Sum Problem
+288,42,DP Basic,Longest Common Subsequence
+289,42,DP Basic,Longest Common Substring
+290,42,DP Basic,Shortest Common Supersequence
+291,42,DP Basic,Longest Increasing Subsequence
+292,42,DP Basic,LIS - Binary Search Optimization
+293,42,DP Basic,Russian Doll Envelopes
+294,42,DP Basic,Maximum Length Chain of Pairs
+295,43,DP Basic,Minimum Insertions to Make Palindrome
+296,43,DP Basic,Distinct Subsequences
+297,43,DP Basic,Matrix Chain Multiplication
+298,43,DP Basic,Palindrome Partitioning II (Min Cuts)
+299,43,DP Basic,Boolean Parenthesization Problem
+300,43,DP Basic,Scramble String
+301,43,DP Basic,DP Basic - Practice & Revision Quiz
+302,44,DP Advanced,Grid Unique Paths
+303,44,DP Advanced,Grid Unique Paths with Obstacles
+304,44,DP Advanced,Minimum Path Sum in Grid
+305,44,DP Advanced,Triangle - Minimum Path Sum
+306,44,DP Advanced,Cherry Pickup Problem
+307,44,DP Advanced,Maximum Square in Binary Matrix
+308,44,DP Advanced,Best Time to Buy/Sell Stock II
+309,45,DP Advanced,Best Time to Buy/Sell Stock III
+310,45,DP Advanced,Best Time to Buy/Sell Stock IV
+311,45,DP Advanced,Stocks with Cooldown
+312,45,DP Advanced,Stocks with Transaction Fee
+313,45,DP Advanced,Egg Dropping Problem
+314,45,DP Advanced,Word Break II
+315,45,DP Advanced,Interleaving String
+316,46,DP Advanced,Wildcard Matching (DP Approach)
+317,46,DP Advanced,Regex Matching (DP Approach)
+318,46,DP Advanced,Partition Equal Subset Sum
+319,46,DP Advanced,Burst Balloons
+320,46,DP Advanced,Bitmask DP - Assign Tasks to Workers
+321,46,DP Advanced,DP on Trees - Diameter/Max Path Sum
+322,46,DP Advanced,DP Advanced - Practice & Revision Quiz
+323,47,Trie & Bit Manipulation,Trie - Implementation (Insert/Search)
+324,47,Trie & Bit Manipulation,Trie - Prefix Search
+325,47,Trie & Bit Manipulation,Word Search II (Trie + Backtracking)
+326,47,Trie & Bit Manipulation,Longest Word with All Prefixes
+327,47,Trie & Bit Manipulation,Count Distinct Substrings using Trie
+328,47,Trie & Bit Manipulation,Maximum XOR of Two Numbers
+329,47,Trie & Bit Manipulation,Single Number Problem
+330,48,Trie & Bit Manipulation,Single Number II & III
+331,48,Trie & Bit Manipulation,Counting Bits
+332,48,Trie & Bit Manipulation,Power of Two/Four Check
+333,48,Trie & Bit Manipulation,Subsets using Bitmasking
+334,48,Trie & Bit Manipulation,XOR Queries of a Subarray
+335,48,Trie & Bit Manipulation,Bitwise AND of Numbers Range
+336,48,Trie & Bit Manipulation,Trie & Bit Manipulation - Practice & Revision Quiz
+337,49,Sliding Window & Two Pointers,Sliding Window Intro & Fixed Window
+338,49,Sliding Window & Two Pointers,Maximum Sum Subarray of Size K
+339,49,Sliding Window & Two Pointers,Longest Substring with K Distinct Chars
+340,49,Sliding Window & Two Pointers,Longest Repeating Character Replacement
+341,49,Sliding Window & Two Pointers,Fruits into Baskets Problem
+342,49,Sliding Window & Two Pointers,Minimum Window Substring (Two Pointer)
+343,49,Sliding Window & Two Pointers,Container With Most Water
+344,50,Sliding Window & Two Pointers,3Sum Closest
+345,50,Sliding Window & Two Pointers,Sort Array by Parity
+346,50,Sliding Window & Two Pointers,Subarray Product Less Than K
+347,50,Sliding Window & Two Pointers,Max Consecutive Ones III
+348,50,Sliding Window & Two Pointers,Permutation in String
+349,50,Sliding Window & Two Pointers,Find All Anagrams in a String
+350,50,Sliding Window & Two Pointers,Sliding Window & Two Pointers - Revision Quiz
+351,51,Mixed Practice & Revision,Mock Interview - Arrays & Strings Mix
+352,51,Mixed Practice & Revision,Mock Interview - LinkedList & Stack Mix
+353,51,Mixed Practice & Revision,Mock Interview - Trees & Graphs Mix
+354,51,Mixed Practice & Revision,Mock Interview - DP Mix
+355,51,Mixed Practice & Revision,Company-Wise Practice - Amazon Set
+356,51,Mixed Practice & Revision,Company-Wise Practice - Google Set
+357,51,Mixed Practice & Revision,Company-Wise Practice - Microsoft Set
+358,52,Mixed Practice & Revision,Company-Wise Practice - Meta Set
+359,52,Mixed Practice & Revision,Time & Space Complexity Recap Across Topics
+360,52,Mixed Practice & Revision,"Full Revision - Arrays, Strings, LinkedList"
+361,52,Mixed Practice & Revision,"Full Revision - Trees, Graphs, Heaps"
+362,52,Mixed Practice & Revision,"Full Revision - DP, Greedy, Backtracking"
+363,52,Mixed Practice & Revision,364-Day Challenge Recap & Key Takeaways
+364,52,Mixed Practice & Revision,Final Day - AMA / What's Next After This Series

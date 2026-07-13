@@ -1,0 +1,31 @@
+# Generated slide images (large binary files)
+output/
+
+# State tracking (local only — resets per machine)
+state/last_posted_day.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment files
+.env
+.env.local
+*.env
+
+# Node (if any tooling added later)
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*.swo
